@@ -10,7 +10,7 @@ export default function Home() {
       }}
     >
       <img
-        src="/profile.jpg"
+        src="profile.jpg"
         alt="Profile"
         style={{ width: "150px", borderRadius: "50%" }}
       />
@@ -40,7 +40,7 @@ export default function Home() {
       </p>
 
       <div style={{ marginTop: "30px", display: "flex", gap: "20px" }}>
-        <a href="/resume.pdf">Download Resume</a>
+        <a href="resume.pdf">Download Resume</a>
         <a href="https://www.linkedin.com/in/josiah-johnson-a38474338/">LinkedIn</a>
         <a href="/projects">Projects</a>
       </div>

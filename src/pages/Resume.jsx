@@ -4,14 +4,14 @@ export default function Resume() {
       <h1>Resume / CV</h1>
 
       <iframe
-        src="/resume.pdf"
+        src="resume.pdf"
         width="100%"
         height="800px"
         style={{ border: "none", marginTop: "20px" }}
       />
 
       <a 
-        href="/resume.pdf" 
+        href="resume.pdf" 
         download 
         style={{ display: "inline-block", marginTop: "20px" }}
       >
